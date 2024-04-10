@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/template.json",
+  "author": "Ericsson",
+  "sourceName": "ReCapProject",
+  "classifications": [ "Web", "Web API" ],
+  "identity": "Ericsson.WebApi.Template.v1",
+  "name": "ASP.NET Core Web API",
+  "shortName": "webapitempv1",
+  "tags": {
+    "type": "solution",
+    "language": "c#"
+  },
+  "defaultName": "Template",
+  "description": "A project template for creating a RESTful Web API with example architectural content"
+}

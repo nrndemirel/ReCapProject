@@ -1,0 +1,6 @@
+@Ericsson.ReCapProject.Api_HostAddress = http://localhost:5122
+
+GET {{Ericsson.ReCapProject.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
